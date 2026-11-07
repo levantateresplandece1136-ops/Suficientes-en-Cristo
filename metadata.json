@@ -1,0 +1,6 @@
+{
+  "name": "Suficiente en Cristo - Libertad y Victoria",
+  "description": "Herramienta de introspección diaria, registro de impulsos y progreso para superar dependencias con apoyo bíblico y reflexivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
